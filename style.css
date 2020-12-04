@@ -1,0 +1,12 @@
+head.h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: #00f2a1;
+}
+
+body.h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ac22a1;
+}
+body.h2{
+    color: aqua;
+}
